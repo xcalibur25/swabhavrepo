@@ -19,3 +19,7 @@ git push origin master- to push to repository.
 
 
 
+Abstraction--> view of software system. Define class and interface.
+
+Encapsulation--> owner of data should only modify data.
+data private and give access to data through methods(getters/setters)
