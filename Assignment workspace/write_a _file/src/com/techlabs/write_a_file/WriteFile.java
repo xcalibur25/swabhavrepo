@@ -12,6 +12,7 @@ public class WriteFile {
 	System.out.println("Written successfully to a file");
 	
 	fw.close();
+	System.out.pr
 
 	}
 
